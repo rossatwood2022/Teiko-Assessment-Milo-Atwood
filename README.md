@@ -1,4 +1,4 @@
-# Teiko Assessment Milo Atwood
+# Teiko Assessment - (Ross) Milo Atwood
 
 ## Overview 
  Hello! This repository contains my solution to the Teiko - Engineering Intern Technical Assessment.
